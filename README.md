@@ -2,16 +2,6 @@
   Ignite-reactjs-design-system
 </h1>
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout Original</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-nextlevel">Próximo Nível</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-<br/><br/>
-
 ![Captura da Web_15-10-2022_19481_127 0 0 1](https://user-images.githubusercontent.com/68654450/196010817-09ae4a0a-37af-4bee-9768-95d919e76a68.jpeg)
 
 ![Captura da Web_15-10-2022_184219_127 0 0 1](https://user-images.githubusercontent.com/68654450/196010828-aee7c811-bd1f-48c4-902c-6999a37459d7.jpeg)
