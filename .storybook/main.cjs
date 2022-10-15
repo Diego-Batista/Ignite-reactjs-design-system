@@ -22,7 +22,7 @@ module.exports = {
   ],
   viteFinal: (config, { configType }) => {
     if (configType === 'PRODUCTION') {
-      config.base = '/lab-design-system'
+      config.base = '/Ignite-reactjs-design-system'
     }
 
     return config
