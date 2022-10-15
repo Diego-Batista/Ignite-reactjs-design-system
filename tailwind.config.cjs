@@ -35,6 +35,9 @@ module.exports = {
       },
       fontFamily: {
         sans: 'Inter, sans-serif'
+      },
+      animation: {
+        'animate-spin': 'spin 3s linear infinite',
       }
     },
   },
