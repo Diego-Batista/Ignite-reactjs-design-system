@@ -79,13 +79,13 @@ export function SignIn() {
 
         </div>
         <div className="flex  md:w-full items-center justify-center mb-3">
-          <Text  className="mr-1 text-[12px] md:text-sm">
+          <Text  className="text-gray-400 mr-1 text-[12px] md:text-sm">
             Feito com 💜 por
           </Text>
           <Text asChild className="mr-1">
             <a href="https://github.com/Diego-Batista" className="text-gray-400  text-[12px] md:text-sm underline hover:text-gray-200">Diego batista</a>
           </Text>
-          <Text className="mr-1 text-[12px] md:text-sm">
+          <Text className="text-gray-400  mr-1 text-[12px] md:text-sm">
             no evento Ignite Lab
           </Text>
           <Text asChild>
